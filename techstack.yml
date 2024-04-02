@@ -1,0 +1,31 @@
+repo_name: LamiaChebel/oc-install-ide-cours
+report_id: 79728a2f1f3b350343aa4e6a1b79f428
+version: 0.1
+repo_type: Public
+timestamp: '2024-04-02T22:18:37+00:00'
+requested_by: geoffreyarthaud
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/LamiaChebel/oc-install-ide-cours
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/LamiaChebel/oc-install-ide-cours
+  detection_source: Repo Metadata
